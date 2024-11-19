@@ -1,5 +1,5 @@
 # Win-KeX Launcher
-Win-KeX Launcher is a utility tool designed to simplify the process of launching and interacting with Win-KeX, the graphical desktop environment for Kali Linux running in WSL2 on Windows.
+A utility tool designed to simplify the process of launching and interacting with Win-KeX, the graphical desktop environment for Kali Linux running in WSL2 on Windows.
 
 ## Table of Contents
 1. [Overview](#overview)
