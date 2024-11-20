@@ -9,7 +9,7 @@ A utility tool designed to simplify the process of launching and interacting wit
 5. [Usage](#usage)  
 6. [Contributing](#contributing)  
 7. [Troubleshooting](#troubleshooting)  
-8. [Licence](#licence)  
+8. [License](#license)  
 9. [Disclaimer](#disclaimer)  
 
 ## Purpose  
@@ -73,7 +73,7 @@ The **Win-KeX Launcher** automates the process of launching Kali Linux's graphic
 - **Missing `win-kex.py` or `win-kex.bat`**:
    - Ensure both scripts are present in the same directory. The batch script relies on the Python script to function properly.
 
-## Licence
+## License
 This project is copylefted software - see the [LICENSE](https://github.com/ReeceKrisnata/Win-KeX-Launcher/tree/main?tab=GPL-3.0-1-ov-file) file for details.
 
 ## Disclaimer
